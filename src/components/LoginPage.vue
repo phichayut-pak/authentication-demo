@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#3aafa9] lg:h-screen h-full flex justify-center items-center">
+  <div class="bg-[#3aafa9] lg:h-screen h-full flex justify-center items-center lg:overflow-hidden">
     
     <!-- card -->
     <div class="flex flex-col bg-[#17252a] rounded-md shadow-lg p-16 lg:mx-16 lg:p-20"
