@@ -1,24 +1,7 @@
-# login_register
+# Authentication Demo
 
-## Project setup
-```
-npm install
-```
+A website using firebase and Vue.js to create login and register system
+Demo website: https://authentication-demo.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![image](https://user-images.githubusercontent.com/22463788/162699256-d972bf30-e9a6-459f-9b6a-d9524ae98f74.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
